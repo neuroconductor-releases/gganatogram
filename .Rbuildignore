@@ -10,3 +10,6 @@
 ^shiny$
 ^cell$
 
+^DESCRIPTION\.bak$
+^\./\.travis\.yml\.bak$
+^\./appveyor\.yml\.bak$
